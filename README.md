@@ -28,7 +28,7 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/LaMini-Pdf-Summarizer.git
+git clone https://github.com/Anupam137/LaMini-Pdf-Summarizer.git
 ```
 
 2. Create a virtual environment
