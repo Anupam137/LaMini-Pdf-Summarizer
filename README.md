@@ -67,6 +67,8 @@ streamlit run stream.py
 ### 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+### For Those who want to directly jump on to testing heres the app link : https://pdfsummarizer-aj.streamlit.app/
+
 ### 💡 Powered By
 - Streamlit
 - Hugging Face Transformers
